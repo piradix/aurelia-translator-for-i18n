@@ -1,0 +1,20 @@
+{
+  "name": "aurelia-translator-for-i18n",
+  "version": "1.0.0",
+  "description": "Purpose is to simplify translation width i18n on Aurelia framework  by replacing  ¤my text.¤ by ¤${'My text' & t}¤",
+  "keywords": [ "transform", "i18n","aurelia" ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piradix/aurelia-translator-for-i18n.git"
+  },
+  "author": {
+    "name": "Bruno Lacombe",
+    "email": "piradix@piradix.com",
+    "url": "https://piradix.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "through2": "1.0.0"
+  }
+}
